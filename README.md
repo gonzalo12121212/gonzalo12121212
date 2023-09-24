@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**gonzalo12121212/gonzalo12121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on improving my programming skills.
+- 🌱 I am currently learning to program a video game, code in C and Arduino, English, mathematics
+- 👯 I am looking to collaborate in python (currently I work only in python, soon I will learn C and much more...)
+all kinds of projects that help me grow.
+- 💬 Ask me about anything you want to know, I have no problem telling it.
+- 📫 How to contact me, via:
+- gmail:
+  gbenittezz@gmail.com
+  phone:
+  1136536740
